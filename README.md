@@ -8,7 +8,7 @@
 
 <br><br>
 <p align="center"> 
-    <a href="https://fernandoaugustodev.github.io/Space_Cream_Mobile/" target="_blank" >Veja o Projeto</a>
+    <a href="https://fernandoaugustodev.github.io/JS_desafio_Explorer/" target="_blank" >Veja o Projeto</a>
 </p>
 <hr>
 
